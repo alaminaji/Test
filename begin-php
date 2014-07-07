@@ -1,5 +1,0 @@
-<?php
-  echo 'Ehmmm...';
-  $eminem = "wow";
-  echo $eminem;
-?>
